@@ -1,0 +1,8 @@
+general.import = ["./dracula.toml"]
+
+[font]
+size = 9
+
+[font.normal]
+family = "Hurmit Nerd Font"
+style = "Regular"
