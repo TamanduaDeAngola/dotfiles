@@ -124,7 +124,5 @@ xfdesktop
 xfwm4
 xfwm4-themes
 xorg-server
-yay
-yay-debug
 zip
 zram-generator
